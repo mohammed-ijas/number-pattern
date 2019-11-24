@@ -1,5 +1,5 @@
 # Number Pattern
-### A python program to print a pattern with given number(n) as input
+### A python and C program to print a pattern with given number(n) as input
 
 For example n=4 prints the pattern
 ```
